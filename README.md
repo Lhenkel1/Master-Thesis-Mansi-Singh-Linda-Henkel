@@ -25,7 +25,7 @@ If you have suggestions, or improvements, please submit a pull request. We welco
 
 For any questions or further information, please contact us at:
 
-Linda Henkel: linda.henkel@mim.esmt.org , Mansi Singh: mansi.singh@mim.esmt.org
+Linda Henkel(linda.henkel@mim.esmt.org) , Mansi Singh (mansi.singh@mim.esmt.org)
 
 
 
