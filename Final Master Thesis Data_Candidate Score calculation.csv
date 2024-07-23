@@ -1,0 +1,23 @@
+Candidate ID ,Recruiter ID ,Was the participant a candidate or recruiter ,Age ,Gender ,Satisfaction with overall outcome in negotiation ,How long did your negotiation take,Salary ,Salary score,Bonus ,Bonus score,Travel Weeks ,Travel score,Title ,Other title ,Title score,IT responsibilities ,Strategy control ,Strategy score,Total negotiation score
+#04,#03,Candidate,25,Woman ,5,13,75000,100,8%,100,2-3 weeks,80,Director of Marketing ,,50,Yes ,70%,40,71.5
+#06,#05,Candidate,27,Man ,4,21,120000,100,8%,100,4-5 weeks ,40,Director of Marketing ,,50,Yes ,70%,40,63.5
+#08,#07,Candidate,26,Woman ,4,10,75000,100,5%,0,6-7 weeks ,0,Other,Director of Marketing and IT,50,Yes ,70%,40,45.5
+#10,#09,Candidate,24,Man ,5,20,100000,100,7%,0,4-5 weeks ,40,Director of Marketing ,,50,Yes ,70%,40,53.5
+#11,#25,Candidate,23,Man ,5,15,92000,100,7%,0,4-5 weeks ,40,Director of Marketing ,,50,Yes ,70%,40,53.5
+#12,#15,Candidate,25,Man ,5,15,120000,100,12%,100,6-7 weeks ,0,Director of Marketing ,,50,Yes ,70%,40,55.5
+#13,#14,Candidate,25,Woman ,4,15,70000,100,10%,100,2-3 weeks,80,Director of Marketing ,,50,Yes ,70%,40,71.5
+#20,#19,Candidate,23,Woman ,5,9,100000,100,8%,100,6-7 weeks ,0,Director of Marketing ,,50,Yes ,100%,100,67.5
+#22,#23 & #49,Candidate,23,Man ,5,16,75000,100,5%,0,6-7 weeks ,0,Director of Marketing ,,50,Yes ,70%,40,45.5
+#24,#18,Candidate,24,Man ,4,20,90000,100,10%,100,2-3 weeks,80,Director of Marketing ,,50,Yes ,70%,40,71.5
+#27,#26,Candidate,27,Woman ,4,23,90000,100,8%,100,4-5 weeks ,40,Director of Marketing ,,50,Yes ,70%,40,63.5
+#28,#29,Candidate,25,Man ,4,14,80000,100,10%,100,6-7 weeks ,0,Other,Director of Internet Marketing,50,Yes ,70%,40,55.5
+#30,#31,Candidate,26,Man ,3,16,70000,100,7%,0,2-3 weeks,80,Director of Marketing ,,50,Yes ,100%,100,73.5
+#32,#35,Candidate,25,Woman ,3,26,95000,100,8%,100,2-3 weeks,80,Director of Marketing ,,50,Yes ,70%,40,71.5
+#33,#36,Candidate,24,Man ,3,25,90000,100,10%,100,4-5 weeks ,40,Director of Marketing ,,50,Yes ,70%,40,63.5
+#37,#38,Candidate,25,Woman ,5,20,100000,100,10%,100,2-3 weeks,80,Director of Marketing ,,50,No,70%,40,71.5
+#39,#41,Candidate,26,Man ,3,25,80000,100,8%,100,4-5 weeks ,40,Director of Marketing ,,50,Yes ,70%,40,63.5
+#40,#42,Candidate,23,Man ,4,30,120000,100,10%,100,4-5 weeks ,40,Director of Marketing ,,50,Yes ,70%,40,63.5
+#44,#45,Candidate,24,Woman ,3,21,80000,100,8%,100,2-3 weeks,80,Director of Marketing ,,50,Yes ,70%,40,71.5
+#46,#34,Candidate,24,Man ,3,30,105000,100,10%,100,6-7 weeks ,0,Director of Marketing ,,50,Yes ,82%,60,59.5
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
