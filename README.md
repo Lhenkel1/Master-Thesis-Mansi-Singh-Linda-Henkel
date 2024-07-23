@@ -17,7 +17,7 @@ Specifically, the research intends to study the correlation between different le
 To examine the relationships between inquisitiveness, learning approach, negotiation efficiency, and negotiation effectiveness, we conducted several statistical analyses. A correlation analysis was first performed to understand how these variables are related to each other and to provide a foundation for further regression analysis. Then, we conducted an Ordinary Least Squares (OLS) regression analysis using Python's statsmodels library to delve deeper into the nature and strength of these relationships. 
 To examine the combined effects of inquisitiveness and learning approach, we incorporated an interaction term into the regression model. While visual representations indicated a potential synergistic effect, the statistical analysis did not confirm a significant interaction effect. To ensure the model's robustness, we computed the Variance Inflation Factor (VIF) for each predictor to check for multicollinearity and applied a White test to each regression output, confirming homoscedastic residuals.
 
-All the code used for our analysis can be found in the 'code for Master Thesis/' directory, while the data used can be found in the 'Final data for Master Thesis/' directory.
+All the code used for our analysis can be found in the 'Code for Master Thesis/' directory, while the data used can be found in the 'Final data for Master Thesis/' directory.
 
 If you have suggestions, or improvements, please submit a pull request. We welcome contributions that enhance the robustness and scope of our research.
 
