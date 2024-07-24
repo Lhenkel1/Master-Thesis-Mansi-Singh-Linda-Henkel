@@ -1,5 +1,7 @@
 ## ESMT Berlin Master Thesis : Linda Henkel and Mansi Singh
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/weiji14/deepbedmap/](https://colab.research.google.com/github/Lhenkel1/Master-Thesis-Mansi-Singh-Linda-Henkel/blob/main/Code%20for%20Master%20Thesis.ipynb)]
+
 Welcome to the repository for the code used in the analysis of our master's thesis titled "**The Influence of Inquisitiveness and Learning Approach on Negotiation Effectiveness and Efficiency: A Close-Up on the Pillars of Openness**". This research was conducted as part of the requirements for the Master's in Management at ESMT Berlin, authored by Mansi Singh and Linda Henkel.
 
 The aim of this thesis is to investigate the connection between openness, represented by the sub-traits of inquisitiveness and learning approach, and the effectiveness and efficiency of negotiations. For this purpose, we formulated the following research questions:
